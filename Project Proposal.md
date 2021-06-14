@@ -34,4 +34,4 @@ The 2nd phase is the sentiment analysis. There are a couple of options, but it l
 
 
 ## MVP
-Modeled topics for the event as well as a word cloud for each topic.
+Modeled topics for the specific state of play event, as well as a word cloud for each topic.
